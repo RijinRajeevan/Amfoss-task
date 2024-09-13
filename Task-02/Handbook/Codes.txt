@@ -1,0 +1,14 @@
+part1 : "aHR0cHM6Ly9naXRo" (code1)
+
+part2 : LnnmknnlLhrsdhk (Herbs:MoonbloomMistveil)
+        "dWIuY29tL2FtYW5ze" (actual code2)   
+        CSigVmaroAn (Celestial Veil Amulet)
+
+part3 : "GNhbGlidXIvVGVyb" (code3)
+        "WluYWwtQ2hhb3MtR29kU3VpdGU=" (code4)
+
+part4 : Decoding code 1,2,3,4.
+
+part5(Godsuite) : "aHR0cHM6Ly9naXRodWIuY29tL2FuZ3JlemljaGF0dGVyYm94L1RvLXRoZS1zdGFycy1hbmQtcmVhbG1zLXVuc2Vlbg==" (code)
+
+
