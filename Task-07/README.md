@@ -1,1 +1,2 @@
-
+# APPROACH :
+In this task,I began by watching CLI tutorial videos from the freecodecamp.org and through referring through the sites given but found some aspects challenging. I focused on setting up a Python virtual environment and installing the necessary modules. I wrote a script using requests and BeautifulSoup to fetch and parse subtitle data from OpenSubtitles. I made sure the subtitles were saved with the correct name and in the right directory so they would be recognized by media players.but actually nothing worked for me i had some issues with this task .The subtitle is getting downloaded but when i use vlc to play the video and added the subtitle it was not showing subtitles.
