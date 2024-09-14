@@ -1,1 +1,2 @@
-
+# MY APPROACH:
+In my approach to adding features to the bot, I focused on keeping it simple and user-friendly. I watched some YouTube tutorials to understand how Telegram bots work also used some codes at first which they have suggested and referred to sites like freecodecamp.org  as this site helped me to create a bot using python.I used google books api to fetch the data of the books.It was little bit challenging to do the list command i tried to do that but I couldn't complete the list command.
