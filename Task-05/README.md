@@ -1,1 +1,2 @@
-
+# MY APPROACH :
+my approach began with learning the basics of HTML, CSS, and JavaScript through YouTube videos and online tutorials. I used resources like Stack Overflow and GeeksforGeeks to clear up any doubts and get help with specific issues.also got a guidance from my cousin brother in the part of checkout page.I spent a bit more time on the JavaScript and CSS parts.Implementing the proceed to buy and sort functions was particularly challenging, but working through these difficulties helped me understand the concepts better.this project helped me in diving into the the world of web developement.
