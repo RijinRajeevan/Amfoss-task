@@ -1,1 +1,2 @@
-
+# APPROACH :
+For this Task, I used techniques from an OpenCV course by FreeCodeCamp and other additional online resources,also the resource which the admin gave about pillow and open cv was helpful. I sorted the images by filename number, detected dots in each image using OpenCV, and connected these dots with lines based on their color using Pillow. This method helped me successfully stitch the fragmented images together to reveal the complete output.
